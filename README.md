@@ -1,5 +1,5 @@
 # Unity-AR-ResidentialEstate
-A sample app using AR to showcase a newly launched condominium estate.
+The main goal of this project is to utilize Unity's AR technology to simulate an app that showcases a newly launched residential estate.
 
 
 ## Main Menu
